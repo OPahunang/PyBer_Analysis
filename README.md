@@ -75,7 +75,7 @@ In this particular project using Python skills and knowledge of Pandas, need to 
 
 ## Summary:
 
-Recommendations to Pyber CEO. according to figures and line chart provided
+The following are the recommendations to Pyber CEO, according to figures and line chart provided:
 
 1)	Potential business growth to Rural cities, to add more drivers with the current drivers of 78 and average fare per driver of $55.49
 
