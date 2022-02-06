@@ -11,14 +11,17 @@ In this particular project using Python skills and knowledge of Pandas, need to 
 ### Deliverables 1: A ride-sharing summary DataFrame by city type
 
 -	The total number of rides for each city type
+
 ![Total_Rides_Count_City_Type.png](https://github.com/OPahunang/PyBer_Analysis/blob/main/Analysis/Total_Rides_Count_City_Type.png)
 
 
 -	The total number of drivers for each city type
+
 ![Total_Drivers_City_Type.png](https://github.com/OPahunang/PyBer_Analysis/blob/main/Analysis/Total_Drivers_City_Type.png)
 
 
 -	The sum of the fares for each city type
+
 ![Total_Amout_Fares_City_Type.png](https://github.com/OPahunang/PyBer_Analysis/blob/main/Analysis/Total_Amout_Fares_City_Type.png)
 
 
