@@ -27,13 +27,23 @@ In this particular project using Python skills and knowledge of Pandas, need to 
 
 -	The average fare per ride for each city type
 
+![Averag_Fare_Per_Ride_City_Type.png](https://github.com/OPahunang/PyBer_Analysis/blob/main/Analysis/Averag_Fare_Per_Ride_City_Type.png)
+
 
 -	The average fare per driver for each city type
 
+![Average_Fare_Per_Driver_City_Type.png](https://github.com/OPahunang/PyBer_Analysis/blob/main/Analysis/Average_Fare_Per_Driver_City_Type.png)
+
+
 -	A PyBer summary DataFrame
+
+![PyBer_Summary.png](https://github.com/OPahunang/PyBer_Analysis/blob/main/Analysis/PyBer_Summary.png)
 
 
 -	The PyBer summary DataFrame formatted 
+
+![PyBer_Summary_Formatted.png](https://github.com/OPahunang/PyBer_Analysis/blob/main/Analysis/PyBer_Summary_Formatted.png)
+
 
 
 ### Deliverables 2: A multiple-line chart of total fares for each city type
